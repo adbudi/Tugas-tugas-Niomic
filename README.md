@@ -31,37 +31,37 @@
 - [Tugas Akhir HTML](https://github.com/adbudi/tugas_akhir_html) - Table Element, Video Element, Format Element, Anchor Element, Paragraph, Image Element, Iframe,
 
 ### 2. CSS
-- [Tugas 1 CSS](https://github.com/hasansuryaman/tugas_1_css) - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
-- [Tugas 2 CSS](https://github.com/hasansuryaman/tugas_2_css) - Universal Selector, Element Selector, Class Selector, ID Selector, Group Selector, Spesific Selector.
-- [Tugas 3 CSS](https://github.com/hasansuryaman/tugas_3_css) - Color, Font-Size, Font-Weight, Font-Family.
-- [Tugas 4 CSS](https://github.com/hasansuryaman/tugas_4_css) - Font-Size, Color, !important.
-- [Tugas 5 CSS](https://github.com/hasansuryaman/tugas_5_css) - Text Align, Text Transform.
-- [Tugas 6 CSS](https://github.com/hasansuryaman/tugas_6_css) - Overflow, Border, Padding.
-- [Tugas 7 CSS](https://github.com/hasansuryaman/tugas_7_css) - Background.
-- [Tugas 8 CSS](https://github.com/hasansuryaman/tugas_8_css) - Background.
-- [Tugas 9 CSS](https://github.com/hasansuryaman/tugas_9_css) - Z-Index, Float, Position.
-- [Tugas 10 CSS](https://github.com/hasansuryaman/tugas_10_css) - Gradient.
-- [Tugas 11 CSS](https://github.com/hasansuryaman/tugas_11_css) - Column.
-- [Tugas 12 CSS](https://github.com/hasansuryaman/tugas_12_css) - Column Count.
-- [Tugas 13 CSS](https://github.com/hasansuryaman/tugas_13_css) - Border Image.
-- [Tugas 14 CSS](https://github.com/hasansuryaman/tugas_14_css) - Flexbox.
-- [Tugas 15 CSS](https://github.com/hasansuryaman/tugas_15_css) - Flexbox.
-- [Tugas 16 CSS](https://github.com/hasansuryaman/tugas_16_css) - Flexbox.
-- [Tugas 17 CSS](https://github.com/hasansuryaman/tugas_17_css) - Flexbox.
-- [Tugas 18 CSS](https://github.com/hasansuryaman/tugas_18_css) - Flexbox.
-- [Tugas 19 CSS](https://github.com/hasansuryaman/tugas_19_css) - Flexbox.
-- [Tugas 20 CSS](https://github.com/hasansuryaman/tugas_20_css) - Flexbox.
-- [Tugas 21 CSS](https://github.com/hasansuryaman/tugas_21_css) - Penggunaan Bootstrap (Local dan CDN).
-- [Tugas 22 CSS](https://github.com/hasansuryaman/tugas_22_css) - Bootstrap Typography.
-- [Tugas 23 CSS](https://github.com/hasansuryaman/tugas_23_css)
-- [Tugas 24 CSS](https://github.com/hasansuryaman/tugas_24_css)
-- [Tugas 25 CSS](https://github.com/hasansuryaman/tugas_25_css)
-- [Tugas 26 CSS](https://github.com/hasansuryaman/tugas_26_css) - Bootstrap Images.
-- [Tugas 27 CSS](https://github.com/hasansuryaman/tugas_27_css) - Bootstrap Grid.
-- [Tugas 28 CSS](https://github.com/hasansuryaman/tugas_28_css)
-- [Tugas 29 CSS](https://github.com/hasansuryaman/tugas_29_css) - Semantic UI.
-- [Tugas 30 CSS](https://github.com/hasansuryaman/tugas_30_css) - Materialize CSS.
-- [Studi Kasus CSS](https://github.com/hasansuryaman/study_kasus_css) - Halaman Website Study Kasus.
-- [Tugas Akhir CSS](https://github.com/hasansuryaman/tugas_akhir_css)
+- [Tugas 1 CSS](https://github.com/adbudi/tugas_1_css) - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
+- [Tugas 2 CSS](https://github.com/adbudi/tugas_2_css) - Universal Selector, Element Selector, Class Selector, ID Selector, Group Selector, Spesific Selector.
+- [Tugas 3 CSS](https://github.com/adbudi/tugas_3_css) - Color, Font-Size, Font-Weight, Font-Family.
+- [Tugas 4 CSS](https://github.com/adbudi/tugas_4_css) - Font-Size, Color, !important.
+- [Tugas 5 CSS](https://github.com/adbudi/tugas_5_css) - Text Align, Text Transform.
+- [Tugas 6 CSS](https://github.com/adbudi/tugas_6_css) - Overflow, Border, Padding.
+- [Tugas 7 CSS](https://github.com/adbudi/tugas_7_css) - Background.
+- [Tugas 8 CSS](https://github.com/adbudi/tugas_8_css) - Background.
+- [Tugas 9 CSS](https://github.com/adbudi/tugas_9_css) - Z-Index, Float, Position.
+- [Tugas 10 CSS](https://github.com/adbudi/tugas_10_css) - Gradient.
+- [Tugas 11 CSS](https://github.com/adbudi/tugas_11_css) - Column.
+- [Tugas 12 CSS](https://github.com/adbudi/tugas_12_css) - Column Count.
+- [Tugas 13 CSS](https://github.com/adbudi/tugas_13_css) - Border Image.
+- [Tugas 14 CSS](https://github.com/adbudi/tugas_14_css) - Flexbox.
+- [Tugas 15 CSS](https://github.com/adbudi/tugas_15_css) - Flexbox.
+- [Tugas 16 CSS](https://github.com/adbudi/tugas_16_css) - Flexbox.
+- [Tugas 17 CSS](https://github.com/adbudi/tugas_17_css) - Flexbox.
+- [Tugas 18 CSS](https://github.com/adbudi/tugas_18_css) - Flexbox.
+- [Tugas 19 CSS](https://github.com/adbudi/tugas_19_css) - Flexbox.
+- [Tugas 20 CSS](https://github.com/adbudi/tugas_20_css) - Flexbox.
+- [Tugas 21 CSS](https://github.com/adbudi/tugas_21_css) - Penggunaan Bootstrap (Local dan CDN).
+- [Tugas 22 CSS](https://github.com/adbudi/tugas_22_css) - Bootstrap Typography.
+- [Tugas 23 CSS](https://github.com/adbudi/tugas_23_css) - Bootstrap Table.
+- [Tugas 24 CSS](https://github.com/adbudi/tugas_24_css) - Bootstrap Form.
+- [Tugas 25 CSS](https://github.com/adbudi/tugas_25_css) - Bootstrap Button.
+- [Tugas 26 CSS](https://github.com/adbudi/tugas_26_css) - Bootstrap Images.
+- [Tugas 27 CSS](https://github.com/adbudi/tugas_27_css) - Bootstrap Grid.
+- [Tugas 28 CSS](https://github.com/adbudi/tugas_28_css) - Bootstrap SignUp.
+- [Tugas 29 CSS](https://github.com/adbudi/tugas_29_css) - Semantic UI.
+- [Tugas 30 CSS](https://github.com/adbudi/tugas_30_css) - Materialize CSS.
+- [Studi Kasus CSS](https://github.com/adbudi/study_kasus_css) - Halaman Website Study Kasus.
+- [Tugas Akhir CSS](https://github.com/adbudi/tugas_akhir_css) 
 
  
