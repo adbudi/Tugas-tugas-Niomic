@@ -1,39 +1,34 @@
 # Tugas-tugas-Niomic
 
-<p align="center"><img src="niomic.png" alt="Niomic" width="200"/></p>
-
-<p align="center">Ini adalah tugas <a href="https://niomic.com/">Niomic</a> yang telah saya selesaikan.</p>
-
-
-
+  
 ### 1. HTML
 - [Tugas 1 HTML](https://github.com/adbudi/tugas_1_html) - Meta Charset, Title, Meta Author, Keyword & Description, Meta Refresh dan Link Favicon.
-- [Tugas 2 HTML](https://github.com/hasansuryaman/tugas_2_html) - Heading Element, Comment.
-- [Tugas 3 HTML](https://github.com/hasansuryaman/tugas_3_html) - Icon Favicon, Heading, Element Paragraph.
-- [Tugas 4 HTML](https://github.com/hasansuryaman/tugas_4_html) - Anchor Element, Align Paragraph.
-- [Tugas 5 HTML](https://github.com/hasansuryaman/tugas_5_html) - Format Element.
-- [Tugas 6 HTML](https://github.com/hasansuryaman/tugas_6_html) - Ordered list, Unordered list, Description list.
-- [Tugas 7 HTML](https://github.com/hasansuryaman/tugas_7_html) - Ordered list, Align Paragraph, Format Element.
-- [Tugas 8 HTML](https://github.com/hasansuryaman/tugas_8_html) - Image Element, Anchor Element, Meta Tag Viewport.
-- [Tugas 9 HTML](https://github.com/hasansuryaman/tugas_9_html) - Iframe.
-- [Tugas 10 HTML](https://github.com/hasansuryaman/tugas_10_html) - Audio Element.
-- [Tugas 11 HTML](https://github.com/hasansuryaman/tugas_11_html) - Video Element.
-- [Tugas 12 HTML](https://github.com/hasansuryaman/tugas_12_html) - Anchor Element, List, Format Element, Image, Audio, Video.
-- [Tugas 13 HTML](https://github.com/hasansuryaman/tugas_13_html) - Form Element.
-- [Tugas 14 HTML](https://github.com/hasansuryaman/tugas_14_html) - Form Element, Custom Validity.
-- [Tugas 15 HTML](https://github.com/hasansuryaman/tugas_15_html) - Form Element, Text, File, Button.
-- [Tugas 16 HTML](https://github.com/hasansuryaman/tugas_16_html) - Button, Input Color, Autocomplete.
-- [Tugas 17 HTML](https://github.com/hasansuryaman/tugas_17_html) - Input Element Type Search, Tel, Number, URL, Range.
-- [Tugas 18 HTML](https://github.com/hasansuryaman/tugas_18_html) - Input Element Date, Datetime, Datetime-local, Time, Month, Week.
-- [Tugas 19 HTML](https://github.com/hasansuryaman/tugas_19_html) - Input Element File, Radio, Checkbox.
-- [Tugas 20 HTML](https://github.com/hasansuryaman/tugas_20_html) - Text Area Element.
-- [Tugas 21 HTML](https://github.com/hasansuryaman/tugas_21_html) - Select & Option Element
-- [Tugas 22 HTML](https://github.com/hasansuryaman/tugas_22_html) - Menggabungkan Komponen-komponen HTML.
-- [Tugas 23 HTML](https://github.com/hasansuryaman/tugas_23_html) - Table Element.
-- [Tugas 24 HTML](https://github.com/hasansuryaman/tugas_24_html) - Table Caption, thead, tbody dan tfooter.
-- [Tugas 25 HTML](https://github.com/hasansuryaman/tugas_25_html) - Semantic Tag Layout.
-- [Study Kasus HTML](https://github.com/hasansuryaman/study_kasus_html) - Penerapan Materi Yang Telah Dipelajari Kedalam Study Kasus.
-- [Tugas Akhir HTML](https://github.com/hasansuryaman/tugas_akhir_html) - Table Element, Video Element, Format Element, Anchor Element, Paragraph, Image Element, Iframe,
+- [Tugas 2 HTML](https://github.comadbudi/tugas_2_html) - Heading Element, Comment.
+- [Tugas 3 HTML](https://github.com/adbudi/tugas_3_html) - Icon Favicon, Heading, Element Paragraph.
+- [Tugas 4 HTML](https://github.com/adbudi/tugas_4_html) - Anchor Element, Align Paragraph.
+- [Tugas 5 HTML](https://github.com/adbudi/tugas_5_html) - Format Element.
+- [Tugas 6 HTML](https://github.com/adbudi/tugas_6_html) - Ordered list, Unordered list, Description list.
+- [Tugas 7 HTML](https://github.com/adbudi/tugas_7_html) - Ordered list, Align Paragraph, Format Element.
+- [Tugas 8 HTML](https://github.com/adbudi/tugas_8_html) - Image Element, Anchor Element, Meta Tag Viewport.
+- [Tugas 9 HTML](https://github.com/adbudi/tugas_9_html) - Iframe.
+- [Tugas 10 HTML](https://github.com/adbudi/tugas_10_html) - Audio Element.
+- [Tugas 11 HTML](https://github.com/adbudi/tugas_11_html) - Video Element.
+- [Tugas 12 HTML](https://github.com/adbudi/tugas_12_html) - Anchor Element, List, Format Element, Image, Audio, Video.
+- [Tugas 13 HTML](https://github.com/adbudi/tugas_13_html) - Form Element.
+- [Tugas 14 HTML](https://github.com/adbudi/tugas_14_html) - Form Element, Custom Validity.
+- [Tugas 15 HTML](https://github.com/adbudi/tugas_15_html) - Form Element, Text, File, Button.
+- [Tugas 16 HTML](https://github.com/adbudi/tugas_16_html) - Button, Input Color, Autocomplete.
+- [Tugas 17 HTML](https://github.com/adbudi/tugas_17_html) - Input Element Type Search, Tel, Number, URL, Range.
+- [Tugas 18 HTML](https://github.com/adbudi/tugas_18_html) - Input Element Date, Datetime, Datetime-local, Time, Month, Week.
+- [Tugas 19 HTML](https://github.com/adbudi/tugas_19_html) - Input Element File, Radio, Checkbox.
+- [Tugas 20 HTML](https://github.com/adbudi/tugas_20_html) - Text Area Element.
+- [Tugas 21 HTML](https://github.com/adbudi/tugas_21_html) - Select & Option Element
+- [Tugas 22 HTML](https://github.com/adbudi/tugas_22_html) - Menggabungkan Komponen-komponen HTML.
+- [Tugas 23 HTML](https://github.com/adbudi/tugas_23_html) - Table Element.
+- [Tugas 24 HTML](https://github.com/adbudi/tugas_24_html) - Table Caption, thead, tbody dan tfooter.
+- [Tugas 25 HTML](https://github.com/adbudi/tugas_25_html) - Semantic Tag Layout.
+- [Study Kasus HTML](https://github.com/adbudi/study_kasus_html) - Penerapan Materi Yang Telah Dipelajari Kedalam Study Kasus.
+- [Tugas Akhir HTML](https://github.com/adbudi/tugas_akhir_html) - Table Element, Video Element, Format Element, Anchor Element, Paragraph, Image Element, Iframe,
 
 ### 2. CSS
 - [Tugas 1 CSS](https://github.com/hasansuryaman/tugas_1_css) - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
