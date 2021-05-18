@@ -1,5 +1,4 @@
 # Tugas-tugas-Niomic
-<h1 align="center">Tugas Niomic</h1>
 
 <p align="center"><img src="niomic.png" alt="Niomic" width="200"/></p>
 
