@@ -3,7 +3,7 @@
   
 ### 1. HTML
 - [Tugas 1 HTML](https://github.com/adbudi/tugas_1_html) - Meta Charset, Title, Meta Author, Keyword & Description, Meta Refresh dan Link Favicon.
-- [Tugas 2 HTML](https://github.comadbudi/tugas_2_html) - Heading Element, Comment.
+- [Tugas 2 HTML](https://github.com/adbudi/Tugas_2_html) - Heading Element, Comment.
 - [Tugas 3 HTML](https://github.com/adbudi/tugas_3_html) - Icon Favicon, Heading, Element Paragraph.
 - [Tugas 4 HTML](https://github.com/adbudi/tugas_4_html) - Anchor Element, Align Paragraph.
 - [Tugas 5 HTML](https://github.com/adbudi/tugas_5_html) - Format Element.
