@@ -27,8 +27,8 @@
 - [Tugas 23 HTML](https://github.com/adbudi/tugas_23_html) - Table Element.
 - [Tugas 24 HTML](https://github.com/adbudi/tugas_24_html) - Table Caption, thead, tbody dan tfooter.
 - [Tugas 25 HTML](https://github.com/adbudi/tugas_25_html) - Semantic Tag Layout.
-- [Study Kasus HTML](https://github.com/adbudi/study_kasus_html) - Penerapan Materi Yang Telah Dipelajari Kedalam Study Kasus.
-- [Tugas Akhir HTML](https://github.com/adbudi/tugas_akhir_html) - Table Element, Video Element, Format Element, Anchor Element, Paragraph, Image Element, Iframe,
+- [Study Kasus HTML](https://github.com/adbudi/Tugas_study_kasus_html) - Penerapan Materi Yang Telah Dipelajari Kedalam Study Kasus.
+- [Tugas Akhir HTML](https://github.com/adbudi/Tugas_tugas_akhir_html) - Table Element, Video Element, Format Element, Anchor Element, Paragraph, Image Element, Iframe,
 
 ### 2. CSS
 - [Tugas 1 CSS](https://github.com/adbudi/tugas_1_css) - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
