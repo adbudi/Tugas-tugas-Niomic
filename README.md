@@ -66,4 +66,4 @@
 
 ### 3. JAVASCRIPT
 
- 
+- [Tugas 1 JS](https://github.com/adbudi/tugas1_js.git) - variabel menggunakan var , let dan const 
