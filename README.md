@@ -67,3 +67,7 @@
 ### 3. JAVASCRIPT
 
 - [Tugas 1 JS](https://github.com/adbudi/tugas1_js.git) - variabel menggunakan var , let dan const 
+- [Tugas 2 JS](https://github.com/adbudi/tugas1_js.git) - 5 tipe data yang berbeda number , string , boolean , null atau undifined dan array
+- [Tugas 3 JS](https://github.com/adbudi/tugas1_js.git) - variabel menggunakan var , let dan const
+- [Tugas 4 JS](https://github.com/adbudi/tugas1_js.git) - variabel menggunakan var , let dan const
+- [Tugas 5 JS](https://github.com/adbudi/tugas1_js.git) - variabel menggunakan var , let dan const
