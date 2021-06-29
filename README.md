@@ -62,7 +62,7 @@
 - [Tugas 29 CSS](https://github.com/adbudi/tugas_29_css) - Semantic UI.
 - [Tugas 30 CSS](https://github.com/adbudi/tugas_30_css) - Materialize CSS.
 - [Studi Kasus CSS](https://github.com/adbudi/study_kasus_css) - Halaman Website Study Kasus.
-- [Tugas Akhir CSS](https://github.com/adbudi/tugas_akhir_css) 
+- [Tugas Akhir CSS](https://github.com/adbudi/tugas_akhir_css) - Landing Page
 
 ### 3. JAVASCRIPT
 
