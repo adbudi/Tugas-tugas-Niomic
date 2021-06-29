@@ -71,4 +71,6 @@
 - [Tugas 3 JS](https://github.com/adbudi/tugas3_js.git) - function yang mempunyai nilai balik atau return dan sebuah parameter / argument
 - [Tugas 4 JS](https://github.com/adbudi/tugas4_js.git) - fungsi dari if else
 - [Tugas 5 JS](https://github.com/adbudi/tugas5_js.git) - perulangan dengan kondisi 
-- [Tugas 6 JS](https://github.com/adbudi/tugas_6.js.git) - perulangan dengan kondisi 
+- [Tugas 6 JS](https://github.com/adbudi/tugas_6.js.git) - perulangan dengan kondisi
+- [Tugas 7 JS](https://github.com/adbudi/tugas_7_js.git) - variabel array dengan menggunakan perulangan biasa dan perulangan for off  
+
