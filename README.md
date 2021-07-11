@@ -73,4 +73,5 @@
 - [Tugas 5 JS](https://github.com/adbudi/tugas5_js.git) - perulangan dengan kondisi 
 - [Tugas 6 JS](https://github.com/adbudi/tugas_6.js.git) - perulangan dengan kondisi
 - [Tugas 7 JS](https://github.com/adbudi/tugas_7_js.git) - variabel array dengan menggunakan perulangan biasa dan perulangan for off  
+- [Tugas 8 JS](https://github.com/adbudi/tugas8_js.git) - object
 
