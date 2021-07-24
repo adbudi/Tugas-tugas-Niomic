@@ -74,7 +74,7 @@
 - [Tugas 6 JS](https://github.com/adbudi/tugas_6.js.git) - perulangan dengan kondisi
 - [Tugas 7 JS](https://github.com/adbudi/tugas_7_js.git) - variabel array dengan menggunakan perulangan biasa dan perulangan for off  
 - [Tugas 8 JS](https://github.com/adbudi/tugas8_js.git) - object
-- [Tugas 9 JS](https://github.com/adbudi/tugas8_js.git) -
+- [Tugas 9 JS](https://github.com/adbudi/tugas8_js.git) - Variable Obj
 - [Tugas 10 JS](https://github.com/adbudi/tugas8_js.git) -
 - [Tugas 11 JS](https://github.com/adbudi/tugas8_js.git) -
 - [Tugas 12 JS](https://github.com/adbudi/tugas8_js.git) -
