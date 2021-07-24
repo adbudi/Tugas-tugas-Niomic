@@ -74,12 +74,12 @@
 - [Tugas 6 JS](https://github.com/adbudi/tugas_6.js.git) - perulangan dengan kondisi
 - [Tugas 7 JS](https://github.com/adbudi/tugas_7_js.git) - variabel array dengan menggunakan perulangan biasa dan perulangan for off  
 - [Tugas 8 JS](https://github.com/adbudi/tugas8_js.git) - object
-- [Tugas 9 JS](https://github.com/adbudi/tugas8_js.git) - Variable Obj
-- [Tugas 10 JS](https://github.com/adbudi/tugas8_js.git) -
-- [Tugas 11 JS](https://github.com/adbudi/tugas8_js.git) -
-- [Tugas 12 JS](https://github.com/adbudi/tugas8_js.git) -
-- [Tugas 13 JS](https://github.com/adbudi/tugas8_js.git) -
-- [Tugas 14 JS](https://github.com/adbudi/tugas8_js.git) -
-- [Tugas 15 JS](https://github.com/adbudi/tugas8_js.git) - fungsi POW dan SQRT
-- [Tugas 16 JS](https://github.com/adbudi/tugas8_js.git) -
+- [Tugas 9 JS](https://github.com/adbudi/tugas9_js.git) - Variable Obj
+- [Tugas 10 JS](https://github.com/adbudi/tugas10_js.git) -
+- [Tugas 11 JS](https://github.com/adbudi/tugas11_js.git) -
+- [Tugas 12 JS](https://github.com/adbudi/tugas12_js.git) -
+- [Tugas 13 JS](https://github.com/adbudi/tugas13_js.git) -
+- [Tugas 14 JS](https://github.com/adbudi/tugas14_js.git) -
+- [Tugas 15 JS](https://github.com/adbudi/tugas15_js.git) - fungsi POW dan SQRT
+- [Tugas 16 JS](https://github.com/adbudi/tugas16_js.git) -
   
