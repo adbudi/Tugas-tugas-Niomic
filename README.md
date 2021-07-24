@@ -81,5 +81,5 @@
 - [Tugas 13 JS](https://github.com/adbudi/tugas13_js.git) -
 - [Tugas 14 JS](https://github.com/adbudi/tugas14_js.git) -
 - [Tugas 15 JS](https://github.com/adbudi/tugas15_js.git) - fungsi POW dan SQRT
-- [Tugas 16 JS](https://github.com/adbudi/tugas16_js.git) -
+- [Tugas 16 JS](https://github.com/adbudi/tugas16_js.git) - fungsi MIN dan MAX
   
