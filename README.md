@@ -84,7 +84,7 @@
 - [Tugas 16 JS](https://github.com/adbudi/tugas16_js.git) - fungsi MIN dan MAX.
 - [Tugas 17 JS](https://github.com/adbudi/tugas17_js.git) - fungsi Lower dan UpperCase.
 - [Tugas 18 JS](https://github.com/adbudi/tugas18_js.git) - Fungsi Slice dan Concat.
-- [Tugas 19 JS](https://github.com/adbudi/tugas19_js.git) -  
+- [Tugas 19 JS](https://github.com/adbudi/tugas19_js.git) -  Fungsi Repeat
 - [Tugas 20 JS](https://github.com/adbudi/tugas120_js.git) -  
   
   
