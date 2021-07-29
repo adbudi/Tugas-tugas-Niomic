@@ -86,7 +86,7 @@
 - [Tugas 18 JS](https://github.com/adbudi/tugas18_js.git) - Fungsi Slice dan Concat.
 - [Tugas 19 JS](https://github.com/adbudi/tugas19_js.git) -  Fungsi Repeat
 - [Tugas 20 JS](https://github.com/adbudi/tugas120_js.git) - Fungsi String Match
-- [Tugas 21 JS](https://github.com/adbudi/tugas121_js.git)
+- [Tugas 21 JS](https://github.com/adbudi/tugas121_js.git) - Fungsi Replace       
 - [Tugas 22 JS](https://github.com/adbudi/tugas122_js.git)
 - [Tugas 23 JS](https://github.com/adbudi/tugas123_js.git)
 - [Tugas 24 JS](https://github.com/adbudi/tugas124_js.git)
