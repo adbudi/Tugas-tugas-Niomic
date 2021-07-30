@@ -90,7 +90,7 @@
 - [Tugas 22 JS](https://github.com/adbudi/tugas122_js.git) - Fungsi ForEach.
 - [Tugas 23 JS](https://github.com/adbudi/tugas123_js.git) - Penggunaan Fungsi Filter.        
 - [Tugas 24 JS](https://github.com/adbudi/tugas124_js.git) - Penggunaan fungsi Sort dan Reverse.
-- [Tugas 25 JS](https://github.com/adbudi/tugas125_js.git)
+- [Tugas 25 JS](https://github.com/adbudi/tugas125_js.git) - Penggunaan fungsi Sort, Reverse dan Array Filter
 - [Tugas 26 JS](https://github.com/adbudi/tugas126_js.git)
 - [Tugas 27 JS](https://github.com/adbudi/tugas127_js.git)
 - [Tugas 28 JS](https://github.com/adbudi/tugas128_js.git)
