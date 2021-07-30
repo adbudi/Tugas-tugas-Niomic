@@ -85,17 +85,17 @@
 - [Tugas 17 JS](https://github.com/adbudi/tugas17_js.git) - fungsi Lower dan UpperCase.
 - [Tugas 18 JS](https://github.com/adbudi/tugas18_js.git) - Fungsi Slice dan Concat.
 - [Tugas 19 JS](https://github.com/adbudi/tugas19_js.git) -  Fungsi Repeat
-- [Tugas 20 JS](https://github.com/adbudi/tugas120_js.git) - Fungsi String Match
-- [Tugas 21 JS](https://github.com/adbudi/tugas121_js.git) - Fungsi Replace       
-- [Tugas 22 JS](https://github.com/adbudi/tugas122_js.git) - Fungsi ForEach.
-- [Tugas 23 JS](https://github.com/adbudi/tugas123_js.git) - Penggunaan Fungsi Filter.        
-- [Tugas 24 JS](https://github.com/adbudi/tugas124_js.git) - Penggunaan fungsi Sort dan Reverse.
-- [Tugas 25 JS](https://github.com/adbudi/tugas125_js.git) - Penggunaan fungsi Sort, Reverse dan Array Filter
-- [Tugas 26 JS](https://github.com/adbudi/tugas126_js.git)
-- [Tugas 27 JS](https://github.com/adbudi/tugas127_js.git)
-- [Tugas 28 JS](https://github.com/adbudi/tugas128_js.git)
-- [Tugas 29 JS](https://github.com/adbudi/tugas129_js.git)
-- [Tugas 30 JS](https://github.com/adbudi/tugas130_js.git)
+- [Tugas 20 JS](https://github.com/adbudi/tugas20_js.git) - Fungsi String Match
+- [Tugas 21 JS](https://github.com/adbudi/tugas21_js.git) - Fungsi Replace       
+- [Tugas 22 JS](https://github.com/adbudi/tugas22_js.git) - Fungsi ForEach.
+- [Tugas 23 JS](https://github.com/adbudi/tugas23_js.git) - Penggunaan Fungsi Filter.        
+- [Tugas 24 JS](https://github.com/adbudi/tugas24_js.git) - Penggunaan fungsi Sort dan Reverse.
+- [Tugas 25 JS](https://github.com/adbudi/tugas25_js.git) - Penggunaan fungsi Sort, Reverse dan Array Filter
+- [Tugas 26 JS](https://github.com/adbudi/tugas26_js.git)
+- [Tugas 27 JS](https://github.com/adbudi/tugas27_js.git)
+- [Tugas 28 JS](https://github.com/adbudi/tugas28_js.git)
+- [Tugas 29 JS](https://github.com/adbudi/tugas29_js.git)
+- [Tugas 30 JS](https://github.com/adbudi/tugas30_js.git)
   
   
   
