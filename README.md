@@ -88,7 +88,7 @@
 - [Tugas 20 JS](https://github.com/adbudi/tugas120_js.git) - Fungsi String Match
 - [Tugas 21 JS](https://github.com/adbudi/tugas121_js.git) - Fungsi Replace       
 - [Tugas 22 JS](https://github.com/adbudi/tugas122_js.git) - Fungsi ForEach.
-- [Tugas 23 JS](https://github.com/adbudi/tugas123_js.git)
+- [Tugas 23 JS](https://github.com/adbudi/tugas123_js.git) - Penggunaan Fungsi Filter.        
 - [Tugas 24 JS](https://github.com/adbudi/tugas124_js.git) - Penggunaan fungsi Sort dan Reverse.
 - [Tugas 25 JS](https://github.com/adbudi/tugas125_js.git)
 - [Tugas 26 JS](https://github.com/adbudi/tugas126_js.git)
