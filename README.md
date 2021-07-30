@@ -89,7 +89,7 @@
 - [Tugas 21 JS](https://github.com/adbudi/tugas121_js.git) - Fungsi Replace       
 - [Tugas 22 JS](https://github.com/adbudi/tugas122_js.git) - Fungsi ForEach.
 - [Tugas 23 JS](https://github.com/adbudi/tugas123_js.git)
-- [Tugas 24 JS](https://github.com/adbudi/tugas124_js.git)
+- [Tugas 24 JS](https://github.com/adbudi/tugas124_js.git) - Penggunaan fungsi Sort dan Reverse.
 - [Tugas 25 JS](https://github.com/adbudi/tugas125_js.git)
 - [Tugas 26 JS](https://github.com/adbudi/tugas126_js.git)
 - [Tugas 27 JS](https://github.com/adbudi/tugas127_js.git)
