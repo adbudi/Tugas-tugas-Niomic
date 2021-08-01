@@ -94,7 +94,7 @@
 - [Tugas 26 JS](https://github.com/adbudi/tugas26_js.git)
 - [Tugas 27 JS](https://github.com/adbudi/tugas27_js.git) - Fungsi Penggabungan kata Array menjadi String dengan Fungsi Join
 - [Tugas 28 JS](https://github.com/adbudi/tugas28_js.git) - Fungsi Regex
-- [Tugas 29 JS](https://github.com/adbudi/tugas29_js.git)
+- [Tugas 29 JS](https://github.com/adbudi/tugas29_js.git) - Fungsi Regexp Exec 
 - [Tugas 30 JS](https://github.com/adbudi/tugas30_js.git)
   
   
