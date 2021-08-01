@@ -92,7 +92,7 @@
 - [Tugas 24 JS](https://github.com/adbudi/tugas24_js.git) - Penggunaan fungsi Sort dan Reverse.
 - [Tugas 25 JS](https://github.com/adbudi/tugas25_js.git) - Penggunaan fungsi Sort, Reverse dan Array Filter
 - [Tugas 26 JS](https://github.com/adbudi/tugas26_js.git)
-- [Tugas 27 JS](https://github.com/adbudi/tugas27_js.git)
+- [Tugas 27 JS](https://github.com/adbudi/tugas27_js.git) - # Tugas Fungsi Array Sort, Reverse dan Filter
 - [Tugas 28 JS](https://github.com/adbudi/tugas28_js.git)
 - [Tugas 29 JS](https://github.com/adbudi/tugas29_js.git)
 - [Tugas 30 JS](https://github.com/adbudi/tugas30_js.git)
