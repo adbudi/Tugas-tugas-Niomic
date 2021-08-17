@@ -96,6 +96,22 @@
 - [Tugas 28 JS](https://github.com/adbudi/tugas28_js.git) - Fungsi Regex
 - [Tugas 29 JS](https://github.com/adbudi/tugas29_js.git) - Fungsi Regexp Exec 
 - [Tugas 30 JS](https://github.com/adbudi/tugas30_js.git) - KArakter Spesifix Regex
+- [Tugas 31 JS](https://github.com/adbudi/tugas31_js.git) - Menggunakan Javascript di Browser
+- [Tugas 32 JS](https://github.com/adbudi/tugas32_js.git)
+- [Tugas 33 JS](https://github.com/adbudi/tugas33_js.git)
+- [Tugas 34 JS](https://github.com/adbudi/tugas34_js.git)
+- [Tugas 35 JS](https://github.com/adbudi/tugas35_js.git)
+- [Tugas 36 JS](https://github.com/adbudi/tugas36_js.git)
+- [Tugas 37 JS](https://github.com/adbudi/tugas37_js.git)
+- [Tugas 38 JS](https://github.com/adbudi/tugas38_js.git)
+- [Tugas 39 JS](https://github.com/adbudi/tugas39_js.git)
+- [Tugas 40 JS](https://github.com/adbudi/tugas40_js.git)
+- [Tugas 41 JS](https://github.com/adbudi/tugas41_js.git)
+- [Tugas 42 JS](https://github.com/adbudi/tugas42_js.git)
+- [Tugas 43 JS](https://github.com/adbudi/tugas43_js.git)
+- [Tugas 44 JS](https://github.com/adbudi/tugas44_js.git)
+- [Tugas 45 JS](https://github.com/adbudi/tugas45_js.git)
+- [Tugas 46 JS](https://github.com/adbudi/tugas46_js.git)
   
   
   
