@@ -100,8 +100,8 @@
 - [Tugas 32 JS](https://github.com/adbudi/tugas32_javascript.git) - GetelemantbyId JAvascript
 - [Tugas 33 JS](https://github.com/adbudi/tugas33_js.git) - getElementbyClassName
 - [Tugas 34 JS](https://github.com/adbudi/tugas34_js.git) - getElementbyTagName
-- [Tugas 35 JS](https://github.com/adbudi/tugas35_js.git)
-- [Tugas 36 JS](https://github.com/adbudi/tugas36_js.git)
+- [Tugas 35 JS](https://github.com/adbudi/tugas35_js.git) - QuerySelector
+- [Tugas 36 JS](https://github.com/adbudi/tugas36_js.git) - Penggabungan 3 fungsi getelement dan querySelector
 - [Tugas 37 JS](https://github.com/adbudi/tugas37_js.git)
 - [Tugas 38 JS](https://github.com/adbudi/tugas38_js.git)
 - [Tugas 39 JS](https://github.com/adbudi/tugas39_js.git)
