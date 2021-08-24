@@ -98,7 +98,7 @@
 - [Tugas 30 JS](https://github.com/adbudi/tugas30_js.git) - KArakter Spesifix Regex
 - [Tugas 31 JS](https://github.com/adbudi/tugas31_js.git) - Menggunakan Javascript di Browser
 - [Tugas 32 JS](https://github.com/adbudi/tugas32_javascript.git) - GetelemantbyId JAvascript
-- [Tugas 33 JS](https://github.com/adbudi/tugas33_js.git)
+- [Tugas 33 JS](https://github.com/adbudi/tugas33_js.git) - getElementbyClassName
 - [Tugas 34 JS](https://github.com/adbudi/tugas34_js.git)
 - [Tugas 35 JS](https://github.com/adbudi/tugas35_js.git)
 - [Tugas 36 JS](https://github.com/adbudi/tugas36_js.git)
