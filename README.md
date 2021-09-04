@@ -105,7 +105,7 @@
 - [Tugas 37 JS](https://github.com/adbudi/tugas37_js.git) - Attributes DOM Name, Item , Lenght 
 - [Tugas 38 JS](https://github.com/adbudi/tugas38_js.git) - Attributes RemoveNameItem, setNameItem, value
 - [Tugas 39 JS](https://github.com/adbudi/tugas39_js.git) - Fungsi addEventListerner, Active ELement, Anchor
-- [Tugas 40 JS](https://github.com/adbudi/tugas40_js.git)
+- [Tugas 40 JS](https://github.com/adbudi/tugas40_js.git) - Fungsi Base URI, Body Property, Create Elemant
 - [Tugas 41 JS](https://github.com/adbudi/tugas41_js.git)
 - [Tugas 42 JS](https://github.com/adbudi/tugas42_js.git)
 - [Tugas 43 JS](https://github.com/adbudi/tugas43_js.git)
