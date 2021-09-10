@@ -107,7 +107,7 @@
 - [Tugas 39 JS](https://github.com/adbudi/tugas39_js.git) - Fungsi addEventListerner, Active ELement, Anchor
 - [Tugas 40 JS](https://github.com/adbudi/tugas40_js.git) - Fungsi Base URI, Body Property, Create Elemant
 - [Tugas 41 JS](https://github.com/adbudi/tugas41_js.git) - Change Event
-- [Tugas 42 JS](https://github.com/adbudi/tugas42_js.git)
+- [Tugas 42 JS](https://github.com/adbudi/tugas42_js.git) - Event Mouseoever , MouseOut
 - [Tugas 43 JS](https://github.com/adbudi/tugas43_js.git)
 - [Tugas 44 JS](https://github.com/adbudi/tugas44_js.git)
 - [Tugas 45 JS](https://github.com/adbudi/tugas45_js.git)
