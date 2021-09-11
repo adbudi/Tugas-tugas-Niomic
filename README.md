@@ -110,7 +110,7 @@
 - [Tugas 42 JS](https://github.com/adbudi/tugas42_js.git) - Event Mouseoever , MouseOut
 - [Tugas 43 JS](https://github.com/adbudi/tugas43_js.git) - History Forward and Back
 - [Tugas 44 JS](https://github.com/adbudi/tugas44_js.git) - Item HTML Methode
-- [Tugas 45 JS](https://github.com/adbudi/tugas45_js.git)
+- [Tugas 45 JS](https://github.com/adbudi/tugas45_js.git) - Membedakan tampilan HREF degan nama tugas45 dan index.html
 - [Tugas 46 JS](https://github.com/adbudi/tugas46_js.git)
   
   
