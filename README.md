@@ -118,7 +118,11 @@
 ### 4. REACTJS
 
 - [Tugas 1](https://github.com/adbudi/tugas1_reactjs.git) - Function Component Dengan File Terpisah , Header , Body , Footer
-- 
+
+### 13. FLUTER
+- [Tugas 1 FLUTTER](https://github.com/adbudi/tugas1_flutter) - Membuat kata "Selamat Datang " dengan Widget Container, Text, Center
+  
+  
   
   
   
