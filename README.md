@@ -122,6 +122,9 @@
 ### 6. DATABASE
 
 - [Tugas 1](https://github.com/adbudi/tugas1_database.git) - Dbase, RDBMS, Dbase Model
+- [Tugas 2](https://github.com/adbudi/tugas2_database.git) - Pengertian Field, Atribute, Tuple, Relation, Candidate Key, Primary Key.
+- [Tugas 3](https://github.com/adbudi/tugas3_database.git) - Kepanjangan dan cara menjalankan XAMPP, MySQL Server, MySQL Client, PHPMyAdmin.
+- 
 
 ### 13. FLUTER
 - [Tugas 1 FLUTTER](https://github.com/adbudi/tugas1_flutter) - Membuat kata "Selamat Datang " dengan Widget Container, Text, Center
