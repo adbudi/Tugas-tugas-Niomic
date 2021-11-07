@@ -126,6 +126,11 @@
 - [Tugas 3](https://github.com/adbudi/tugas3_database.git) - Kepanjangan dan cara menjalankan XAMPP, MySQL Server, MySQL Client, PHPMyAdmin.
 - 
 
+### 7. NODEJS
+
+- [Tugas 1](https://github.com/adbudi/tugas1_nodejs.git) - Membuat Port DataSiswa
+
+
 ### 13. FLUTER
 - [Tugas 1 FLUTTER](https://github.com/adbudi/tugas1_flutter) - Membuat kata "Selamat Datang " dengan Widget Container, Text, Center
   
