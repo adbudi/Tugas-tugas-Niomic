@@ -124,7 +124,7 @@
 - [Tugas 1](https://github.com/adbudi/tugas1_database.git) - Dbase, RDBMS, Dbase Model
 - [Tugas 2](https://github.com/adbudi/tugas2_database.git) - Pengertian Field, Atribute, Tuple, Relation, Candidate Key, Primary Key.
 - [Tugas 3](https://github.com/adbudi/tugas3_database.git) - Kepanjangan dan cara menjalankan XAMPP, MySQL Server, MySQL Client, PHPMyAdmin.
-- 
+- [Tugas 4](https://github.com/adbudi/tugas4_database.git) - Membuat database sepakbola dan mengkapus dbase
 
 ### 7. NODEJS
 
